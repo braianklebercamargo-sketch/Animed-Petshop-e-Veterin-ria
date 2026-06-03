@@ -1,0 +1,6 @@
+{
+  "name": "Animed Passo Fundo",
+  "description": "Clínica Veterinária e Pet Shop em Passo Fundo - RS. Consultas, Banho e Tosa, Internações, Cirurgias e Pet Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
